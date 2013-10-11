@@ -7,7 +7,6 @@ def polygon(t, length, n):
 	print t
 	wait_for_user()
 
-def circle(t,r):
 	
 world = TurtleWorld()
 bob = Turtle()
